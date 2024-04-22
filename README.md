@@ -1,1 +1,7 @@
-# pet-CONTROL-OF-REAL-ESTATE-OBJECTS
+Dashboard: https://datalens.yandex/0ajgy6vgry2wo
+
+
+| Python | A/B-test |
+|----------|----------|
+| [Analysis 1](https://github.com/NaumchenkoRA/Portfolio/blob/main/13.%20Анализ%20клиентов%20регионального%20банка/13-2%20Анализ%20клиентов%20регионального%20банка.ipynb)    | [A/B test 1](https://github.com/NaumchenkoRA/Portfolio/blob/main/14.%20Оценка%20корректности%20и%20результатов%20AB%20теста/13-4%20Проект%20по%20АB-тестированию.ipynb)  |
+| [Analysis 2](https://github.com/NaumchenkoRA/Portfolio/blob/main/11.%20Исследования%20рынка%20общепита%20в%20Москве%20для%20принятия%20решения%20об%20открытии%20нового%20заведения/11%20Исследование%20рынка%20заведений%20общественного%20питания%20Москвы.ipynb)   | [A/B test 2](https://github.com/NaumchenkoRA/Portfolio/blob/main/09.%20Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20—%20оценить%20результаты%20AB%20теста/09%20Проверка%20гипотез%20для%20увеличения%20выручки%20крупного%20интернет-магазина.ipynb)      |
